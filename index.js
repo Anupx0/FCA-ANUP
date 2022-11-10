@@ -1,7 +1,7 @@
 'use strict';
 
 /**
-    * Developers: @KanzuWakazaki - @HarryWakazaki
+    * Developers: @Anup
     ** A few words about developer appstate security.
     *! Statement renouncing responsibility for the security of appstate encryption of the following operating systems: windows, Android, Linux operating systems,.. (maybe repl.it?),
     *! because the above operating systems are private (except rep.it if the fraudster does not own your account or invite link to join).
@@ -45,7 +45,7 @@ globalThis.Fca = new Object({
             "PreKey": "",
             "AutoUpdate": true,
             "MainColor": "#9900FF",
-            "MainName": "[ FCA-HZI ]",
+            "MainName": "[ FCA-ANUP ]",
             "Uptime": false,
             "Login2Fa": false,
             "AutoLogin": false,
